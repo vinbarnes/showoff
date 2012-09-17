@@ -16,3 +16,5 @@ To contribute to the ShowOff project:
 * Send me a pull request through GitHub with a description of
   what you are contributing.
 
+* it is alive
+* 
